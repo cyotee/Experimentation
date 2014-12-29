@@ -26,9 +26,6 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @ContextConfiguration(classes=Configuration.class)
 public class ConsoleMessageWriterTest {
 	@Autowired
-	private ApplicationContext context;
-	
-	@Autowired
 	private Environment environment;
 	
 	@Autowired
