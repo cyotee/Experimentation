@@ -27,6 +27,7 @@
   		<groupId>com.github.stefanbirkner</groupId>
   		<artifactId>system-rules</artifactId>
   		<version>${version.system-rules}</version>
+      	<scope>test</scope>
 	</dependency>
   </dependencies>
 </project>
